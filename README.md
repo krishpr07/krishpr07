@@ -85,10 +85,6 @@
     <td align="left"><img height="64" src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center"><h3>🧪 Python Libraries</h3></td>
-    <td align="left"><img height="64" src="https://skillicons.dev/icons?i=numpy,pandas,opencv&theme=dark" /></td>
-  </tr>
-  <tr>
     <td align="center"><h3>🧰 Tools</h3></td>
     <td align="left"><img height="64" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
   </tr>
