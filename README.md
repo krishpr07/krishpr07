@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20&section=header" width="70%" />
 
 <a href="https://github.com/krishpr07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+Flask+%7C+SQL;Open+to+collaborating+on+projects" alt="Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+SQL;Open+to+collaborating+on+projects" alt="Intro" />
 </a>
 
 <br/><br/>
@@ -43,7 +43,7 @@
     <td align="center" width="240">
       <h1>🌱</h1>
       <h3>Learning</h3>
-      Algorithms, Flask<br/>& backend design
+      Algorithms, data structures<br/>& backend design
     </td>
     <td align="center" width="240">
       <h1>🤝</h1>
@@ -62,11 +62,11 @@
 <table>
   <tr>
     <td align="center" width="260"><h3>💻 Languages</h3></td>
-    <td align="left" width="560"><img height="64" src="https://skillicons.dev/icons?i=py,c,cpp,js&theme=dark" /></td>
+    <td align="left" width="560"><img height="64" src="https://skillicons.dev/icons?i=py,c,cpp&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><h3>🌐 Web & Backend</h3></td>
-    <td align="left"><img height="64" src="https://skillicons.dev/icons?i=html,css,flask,mysql&theme=dark" /></td>
+    <td align="left"><img height="64" src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><h3>🧪 Python Libraries</h3></td>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center"><h3>🧰 Tools</h3></td>
-    <td align="left"><img height="64" src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /></td>
+    <td align="left"><img height="64" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
   </tr>
 </table>
 
