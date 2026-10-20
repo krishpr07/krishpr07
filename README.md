@@ -3,13 +3,21 @@
 <br/>
 
 <a href="https://github.com/krishpr07">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&duration=4000&pause=1500&color=B388FF&center=true&vCenter=true&width=950&height=110&lines=KRISH+PRAJAPATI" alt="Krish Prajapati" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&duration=4000&pause=1500&color=B388FF&center=true&vCenter=true&width=950&height=110&lines=KRISH+PRAJAPATI">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=950&height=110&lines=KRISH+PRAJAPATI">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=60&duration=4000&pause=1500&color=B388FF&center=true&vCenter=true&width=950&height=110&lines=KRISH+PRAJAPATI" alt="Krish Prajapati" />
+  </picture>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,20&section=header" width="70%" />
 
 <a href="https://github.com/krishpr07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+SQL;Open+to+collaborating+on+projects" alt="Intro" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+SQL;Open+to+collaborating+on+projects">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=0F766E&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+SQL;Open+to+collaborating+on+projects">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=950&height=70&lines=Developer+%26+Competitive+Programmer;Based+in+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Python+%7C+C%2B%2B+%7C+SQL;Open+to+collaborating+on+projects" alt="Intro" />
+  </picture>
 </a>
 
 <br/><br/>
@@ -24,7 +32,11 @@
 
 <br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6" alt="About Me" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=1F2328&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6" alt="About Me" />
+  </picture>
 
 <br/>
 
@@ -55,7 +67,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6" alt="Tech Stack" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=1F2328&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6" alt="Tech Stack" />
+  </picture>
 
 <br/>
 
@@ -80,7 +96,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+PROJECTS+%E2%9C%A6" alt="Projects" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+PROJECTS+%E2%9C%A6">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=1F2328&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+PROJECTS+%E2%9C%A6">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+PROJECTS+%E2%9C%A6" alt="Projects" />
+  </picture>
 
 <br/>
 
@@ -103,7 +123,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+GITHUB+ACTIVITY+%E2%9C%A6" alt="GitHub Activity" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+GITHUB+ACTIVITY+%E2%9C%A6">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=1F2328&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+GITHUB+ACTIVITY+%E2%9C%A6">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+GITHUB+ACTIVITY+%E2%9C%A6" alt="GitHub Activity" />
+  </picture>
 
 <br/>
 
